@@ -1,0 +1,10 @@
+<?php
+
+    // Open a file for reading
+    $handle = fopen("note.txt", "r");
+    var_dump($handle);
+    echo "<br>";
+
+    echo "This program is written by Akeniyamat-0221BCA153"
+ 
+?>
