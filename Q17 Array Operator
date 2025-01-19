@@ -1,1 +1,11 @@
+<?php
+$x = array("a" => "Red", "b"=> "Green", "c"=> "Blue";
+$y = array("u" => "Yellow", "v" => "Orange", "w" => "Pink");
+Sz - $x + $y; // Union of $x and Sy var_ dump($z);
+var_dump($x $v); // Outputs: boolean false 
+var_dump($x - $y); // Outputs: boolean false 
+var_ dump($x !- $y); // Outputs: boolean true 
+var_dump($x $y); // Outputs: boolean true 
+var_ dump($x!- $y); // Outputs: boolean true
 
+?>
