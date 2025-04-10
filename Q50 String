@@ -1,0 +1,8 @@
+<?php
+
+    $my_str = 'World';
+    echo "Hello, $my_str!<br>";
+
+    echo "<br>This program is written by Akeniyamat-0221BCA153";
+
+?>
