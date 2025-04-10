@@ -15,7 +15,7 @@ echo "<br>Sorted array (in ascending order):<br>";
 foreach ($arr as $value) {
     echo $value . "<br>";
 }
-echo("<br>This program is written by Akeniyamat-0221BCA066");
+echo("<br>This program is written by Akeniyamat-0221BCA153");
 
 ?>
 
