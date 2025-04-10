@@ -1,0 +1,11 @@
+<?php
+
+    $file = fopen("welcome.txt", "r") or exit("Unable to open file!");
+  
+    while(!feof($file))
+    {
+        echo fgets($file). "<br>";
+    }
+    fclose($file);
+   echo "This program is written by Akeniyamat-0221BCA153";
+?>
